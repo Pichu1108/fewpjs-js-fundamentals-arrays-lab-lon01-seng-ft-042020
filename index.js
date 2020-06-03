@@ -1,3 +1,3 @@
 const pets = ["Milo", "Otis", "Garfield"]
 
-pets.appends('Odie')
+pets.push('Odie')
