@@ -5,4 +5,4 @@ const removeFirst = ["Milo", "Otis", "Garfield"]
 
 
 
-pets.push('Odie')
+appends.push('Odie')
